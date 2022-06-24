@@ -8,7 +8,7 @@ function Header(){
             <h1><span>Launch Your App</span>With Confidence and Creativity</h1>
             <p className="details">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolores voluptate quisquam culpa ut architecto voluptatem ad saepe natus, nisi maxime, quasi quam minima atque laboriosam. Enim eius minima blanditiis!
             </p>
-            <a href="#" className="cv-btn">Download</a>
+            <a href='/' className="cv-btn">Download</a>
             </div> 
         </div>
     )
